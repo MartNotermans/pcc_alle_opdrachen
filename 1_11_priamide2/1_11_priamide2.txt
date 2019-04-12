@@ -1,0 +1,1 @@
+./Debug/1_11_piramide2.cpp.o   
